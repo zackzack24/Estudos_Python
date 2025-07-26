@@ -5,3 +5,5 @@ def fatorial(n):
         return n * fatorial(n-1)
     
 print(fatorial(5))  
+
+   
