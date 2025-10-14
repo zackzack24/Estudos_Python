@@ -1,0 +1,113 @@
+[
+    {
+        "codigo": "002",
+        "nome": "Notebook",
+        "quantidade": 50,
+        "preco": 400
+    },
+    {
+        "codigo": "003",
+        "nome": "Notebook",
+        "quantidade": 50,
+        "preco": 400
+    },
+    {
+        "codigo": "003",
+        "nome": "Notebook",
+        "quantidade": 50,
+        "preco": 400
+    },
+    {
+        "nome": "Roupas"
+    },
+    {
+        "codigo": "099",
+        "nome": "WaterCooler",
+        "quantidade": 50,
+        "preco": 750
+    },
+    {
+        "nome": "Roupas"
+    },
+    {
+        "codigo": "099",
+        "nome": "WaterCooler",
+        "quantidade": 50,
+        "preco": 750
+    },
+    {
+        "nome": "Tecnologia"
+    },
+    {
+        "codigo": "250",
+        "nome": "Mem\u00f3ria RAM KINGSTON 2 TB",
+        "quantidade": 25,
+        "preco": 900
+    },
+    {
+        "nome": "Tecnologia"
+    },
+    {
+        "codigo": "250",
+        "nome": "Mem\u00f3ria RAM KINGSTON 2 TB",
+        "quantidade": 25,
+        "preco": 900
+    },
+    {
+        "nome": "Tecnologia"
+    },
+    {
+        "codigo": "250",
+        "nome": "Mem\u00f3ria RAM KINGSTON 2 TB",
+        "quantidade": 25,
+        "preco": 900
+    },
+    {
+        "nome": "Tecnologia"
+    },
+    {
+        "codigo": "250",
+        "nome": "Mem\u00f3ria RAM KINGSTON 2 TB",
+        "quantidade": 25,
+        "preco": 900
+    },
+    {
+        "nome": "Tecnologia"
+    },
+    {
+        "codigo": "250",
+        "nome": "Memoria RAM KINGSTON 2 TB",
+        "quantidade": 25,
+        "preco": 900
+    },
+    {
+        "nome": "Tecnologia"
+    },
+    {
+        "codigo": "134",
+        "nome": "Logitech",
+        "quantidade": 90,
+        "preco": 50
+    },
+    {
+        "nome": "Tecnologia"
+    },
+    {
+        "codigo": "134",
+        "nome": "Logitech",
+        "quantidade": 90,
+        "preco": 50
+    },
+    {
+        "codigo": "134",
+        "nome": "Logitech",
+        "quantidade": 90,
+        "preco": 50
+    },
+    {
+        "codigo": "134",
+        "nome": "Logitech",
+        "quantidade": 90,
+        "preco": 50
+    }
+]
